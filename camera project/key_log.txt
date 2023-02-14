@@ -1,0 +1,297 @@
+[08:03:10.645952]: u
+[08:03:11.449728]: us
+[08:03:11.452724]: usy
+[08:03:11.701599]: usy8
+[08:03:12.125306]: usy8s
+[08:03:12.445461]: usy8su
+[08:03:12.686458]: usy8sus
+[08:03:13.010138]: usy8susu
+[08:03:13.290517]: usy8susus
+[08:03:15.339857]: usy8sususj
+[08:03:15.803817]: usy8sususjk
+[08:03:16.364578]: usy8sususjk 
+[08:03:16.705201]: usy8sususjk i
+[08:03:16.838543]: usy8sususjk ih
+[08:03:16.978524]: usy8sususjk ihi
+[08:03:17.128939]: usy8sususjk ihih
+[08:03:17.933876]: usy8sususjk ihih 
+[08:03:18.254958]: usy8sususjk ihih j
+[08:03:18.275428]: usy8sususjk ihih ju
+[08:03:18.352558]: usy8sususjk ihih juh
+[08:03:18.486307]: usy8sususjk ihih juhi
+[08:03:18.546830]: usy8sususjk ihih juhis
+[08:03:18.839783]: usy8sususjk ihih juhis [enter] 
+[08:03:19.119845]: usy8sususjk ihih juhis [enter] i
+[08:03:19.126105]: usy8sususjk ihih juhis [enter] io
+[08:03:19.231757]: usy8sususjk ihih juhis [enter] ioj
+[08:03:19.341775]: usy8sususjk ihih juhis [enter] ioji
+[08:03:31.429865]: usy8sususjk ihih juhis [enter] ioj
+[08:03:34.665921]: usy8sususjk ihih juhis [enter] io
+[08:03:35.641015]: usy8sususjk ihih juhis [enter] i
+[08:03:36.424237]: usy8sususjk ihih juhis [enter] 
+[08:03:37.078928]: usy8sususjk ihih juhi [enter] 
+[11:15:11.098853]: y
+[11:15:11.793002]: yu
+[11:15:12.194335]: yuy
+[11:15:12.574376]: yuyy
+[11:15:12.867853]: yuyyf
+[11:15:13.268400]: yuyyfg
+[11:15:14.333364]: yuyyfgb
+[11:15:14.807084]: yuyyfgbv
+[11:15:14.976750]: yuyyfgbvt
+[11:15:15.107651]: yuyyfgbvtf
+[11:15:15.812682]: yuyyfgbvtf 
+[11:15:16.123128]: yuyyfgbvtf u
+[11:15:16.213667]: yuyyfgbvtf uh
+[11:15:16.344303]: yuyyfgbvtf uhu
+[11:15:16.351622]: yuyyfgbvtf uhu8
+[11:15:16.549281]: yuyyfgbvtf uhu8h
+[11:15:16.929813]: yuyyfgbvtf uhu8hh
+[11:15:17.180276]: yuyyfgbvtf uhu8hh8
+[11:15:18.174902]: yuyyfgbvtf uhu8hh
+[11:15:18.737844]: yuyyfgbvtf uhu8hhy
+[11:15:18.799065]: yuyyfgbvtf uhu8hhyg
+[11:15:18.949260]: yuyyfgbvtf uhu8hhygy
+[11:15:19.119709]: yuyyfgbvtf uhu8hhygyg
+[11:15:20.002821]: yuyyfgbvtf uhu8hhygy
+[11:15:20.154304]: yuyyfgbvtf uhu8hhyg
+[11:15:20.333887]: yuyyfgbvtf uhu8hhy
+[11:15:20.798411]: yuyyfgbvtf uhu8hh
+[11:15:21.659530]: yuyyfgbvtf uhu8hh [enter] 
+[11:15:23.760587]: yuyyfgbvtf uhu8hh [enter] u
+[11:15:24.021958]: yuyyfgbvtf uhu8hh [enter] uh
+[11:15:24.072110]: yuyyfgbvtf uhu8hh [enter] uhu
+[11:15:24.265666]: yuyyfgbvtf uhu8hh [enter] uhuh
+[11:15:24.372594]: yuyyfgbvtf uhu8hh [enter] uhuhu
+[11:15:24.512828]: yuyyfgbvtf uhu8hh [enter] uhuhuh
+[11:15:24.582515]: yuyyfgbvtf uhu8hh [enter] uhuhuhy
+[11:15:25.186771]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] 
+[11:15:25.587410]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] i
+[11:15:25.689980]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iu
+[11:15:25.731089]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iuj
+[11:15:25.870465]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iuji
+[11:15:25.993438]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiu
+[11:15:25.998442]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj
+[11:15:26.939095]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl] 
+[11:15:27.439597]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl] 
+[11:15:27.479763]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl] 
+[11:15:27.519826]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl] 
+[11:15:27.559816]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] 
+[11:15:27.599044]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] 
+[11:15:27.620055]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16
+[11:15:43.065590]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter] 
+[11:15:44.854404]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] 
+[11:15:49.224161]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] a
+[11:15:49.454546]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] ad
+[11:15:49.664816]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] ade
+[11:15:50.589635]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adey
+[11:15:50.852313]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeye
+[11:15:51.103390]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyem
+[11:15:51.354162]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi
+[11:15:52.188239]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi 
+[11:16:21.705900]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter] 
+[11:16:22.209252]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter] 
+[11:16:22.619795]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter] 
+[11:16:23.044112]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter] 
+[11:16:29.986953]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter] 
+[11:16:30.478008]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter] 
+[11:16:31.171923]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter] 
+[11:16:39.913051]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:16:40.967980]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  g
+[11:16:41.108156]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gf
+[11:16:41.258566]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfy
+[11:16:41.264068]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfyu
+[11:16:41.369670]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfyuf
+[11:16:41.533212]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfyufy
+[11:17:10.296358]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfyuf
+[11:17:10.889097]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfyu
+[11:17:11.341111]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gfy
+[11:17:11.621279]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gf
+[11:17:11.873757]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  g
+[11:17:12.105386]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyemi  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:12.354996]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeyem  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:13.230268]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adeye  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:13.540527]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] adey  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:13.801239]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] ade  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:14.054675]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] ad  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:14.264920]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter] a  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:14.485415]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x16 [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:14.765859]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x1 [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:15.019311]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \x [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:15.239628]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl] \ [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:15.470095]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:15.730427]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iujiu [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:17:18.955971]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iuji [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:06.137943]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iuj [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:06.728993]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] iu [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:07.031342]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl] i [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:07.653315]: yuyyfgbvtf uhu8hh [enter] uhuhuhy [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:08.107630]: yuyyfgbvtf uhu8hh [enter] uhuhuh [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:08.539038]: yuyyfgbvtf uhu8hh [enter] uhuhu [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:08.909692]: yuyyfgbvtf uhu8hh [enter] uhuh [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:09.243274]: yuyyfgbvtf uhu8hh [enter] uhu [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:09.673968]: yuyyfgbvtf uhu8hh [enter] uh [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:09.894407]: yuyyfgbvtf uhu8hh [enter] u [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:10.117713]: yuyyfgbvtf uhu8hh [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:10.338114]: yuyyfgbvtf uhu8h [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:10.548471]: yuyyfgbvtf uhu8 [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:10.748730]: yuyyfgbvtf uhu [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.252514]: yuyyfgbvtf uh [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.292090]: yuyyfgbvtf u [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.332096]: yuyyfgbvtf  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.372917]: yuyyfgbvt  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.413121]: yuyyfgbv  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.453013]: yuyyfgb  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.493025]: yuyyfg  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.532992]: yuyyf  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.573246]: yuyy  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.613954]: yuy  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.653371]: yu  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.693413]: y  [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.733298]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.773234]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.813585]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.853681]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.893710]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.933749]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:11.975760]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.015687]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.055939]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.097293]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.137142]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.177000]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.217189]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.257354]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.297378]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.337507]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.377595]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.417368]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.456843]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.497685]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.537692]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.577792]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.618100]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.658231]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.698093]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.738142]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.778045]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.818875]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.858361]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.898265]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.938246]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:12.980535]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:13.020448]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:13.060607]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:13.101132]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:13.612703]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:18:13.862678]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:16.609543]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  g
+[11:20:17.110195]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gg
+[11:20:17.150535]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggg
+[11:20:17.192033]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggg
+[11:20:17.232202]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggg
+[11:20:17.272512]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggg
+[11:20:17.313515]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggg
+[11:20:17.353890]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggg
+[11:20:17.393765]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggg
+[11:20:17.433722]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggg
+[11:20:17.473773]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggg
+[11:20:17.513819]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggg
+[11:20:17.553745]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggg
+[11:20:17.593773]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggg
+[11:20:17.634012]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggg
+[11:20:17.674163]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggg
+[11:20:17.714311]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggg
+[11:20:17.754305]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggg
+[11:20:17.794340]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggg
+[11:20:17.834415]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggg
+[11:20:17.874312]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggg
+[11:20:17.914452]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggg
+[11:20:17.954649]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggg
+[11:20:17.994605]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggg
+[11:20:18.034888]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggg
+[11:20:18.074786]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggg
+[11:20:18.114722]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggg
+[11:20:18.155240]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggg
+[11:20:18.197021]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggggg
+[11:20:18.237125]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggggg
+[11:20:18.277119]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggggggg
+[11:20:18.292699]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggggggj
+[11:20:18.298697]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggggggjh
+[11:20:19.080763]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggggggj
+[11:20:19.585621]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggggggg
+[11:20:19.625573]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggggg
+[11:20:19.665050]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggggg
+[11:20:19.705726]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggggg
+[11:20:19.745901]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggggg
+[11:20:19.786033]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggggg
+[11:20:19.825395]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggggg
+[11:20:19.865533]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggggg
+[11:20:19.906183]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggggg
+[11:20:19.946085]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggggg
+[11:20:19.986149]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggggg
+[11:20:20.026293]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggggg
+[11:20:20.066344]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggggg
+[11:20:20.106321]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggggg
+[11:20:20.146410]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggggg
+[11:20:20.188233]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggggg
+[11:20:20.228247]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggggg
+[11:20:20.268602]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggggg
+[11:20:20.309683]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggggg
+[11:20:20.349472]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggggg
+[11:20:20.389708]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggggg
+[11:20:20.429767]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggggg
+[11:20:20.470066]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggggg
+[11:20:20.510139]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggggg
+[11:20:20.550268]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggggg
+[11:20:20.590293]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggggg
+[11:20:20.630262]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggggg
+[11:20:20.670320]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gggg
+[11:20:20.709724]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  ggg
+[11:20:20.750385]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  gg
+[11:20:20.790830]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  g
+[11:20:20.830608]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:20.870769]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:20.909875]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:20.950801]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:20.990949]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:20:21.030641]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  
+[11:21:39.129114]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] 
+[11:21:40.698063]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] b
+[11:21:40.918305]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bv
+[11:21:40.968342]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvf
+[11:21:41.118448]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfg
+[11:21:41.268631]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgf
+[11:21:41.772847]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgff
+[11:21:41.812684]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfff
+[11:21:41.852621]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffff
+[11:21:41.892822]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffff
+[11:21:41.932797]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffff
+[11:21:41.973416]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffff
+[11:21:42.012891]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffff
+[11:21:42.053116]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffff
+[11:21:42.092989]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffffff
+[11:21:42.133110]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffff
+[11:21:42.173375]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffffffff
+[11:21:42.213203]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffffff
+[11:21:47.739867]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffffff 
+[11:21:48.564260]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffffff  
+[11:21:51.386913]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffffff   [enter] 
+[11:21:52.381777]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffffffff   [enter] 
+[11:21:52.883471]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffffff   [enter] 
+[11:21:52.922763]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffffff   [enter] 
+[11:21:52.964283]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffffff   [enter] 
+[11:21:53.003568]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffffff   [enter] 
+[11:21:53.043694]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffffff   [enter] 
+[11:21:53.083937]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffffff   [enter] 
+[11:21:53.123925]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfffff   [enter] 
+[11:21:53.163797]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgffff   [enter] 
+[11:21:53.203924]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgfff   [enter] 
+[11:21:53.243984]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgff   [enter] 
+[11:21:53.283923]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfgf   [enter] 
+[11:21:53.324023]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvfg   [enter] 
+[11:21:53.366373]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bvf   [enter] 
+[11:21:53.405737]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] bv   [enter] 
+[11:21:53.447464]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter] b   [enter] 
+[11:21:53.487306]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter]    [enter] 
+[11:22:00.602131]:   [enter]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [ctrl]  [enter]  [enter]   [enter]  [enter]  [enter]  [enter]  [enter]  [enter]  [enter]   [enter]    [enter] j

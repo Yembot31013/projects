@@ -1,0 +1,9 @@
+argparse
+beautifulsoup4
+netfilterqueue
+pyinstaller
+pynput
+requests
+scapy
+yagmail
+

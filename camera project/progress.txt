@@ -1,0 +1,39 @@
+Abass's Galaxy A03s ==> chicharito03Spectranet-LTE-1976 ==> 0020901976CIH Young Dev. ==> Innov@tion123CIH Main ==> Innov@tion123Wifi sniffer ==> 022b47f8b23ciPhone 13 pro max  ==> adamsakoredeUCOHUB ==> None
+Innocuos ==> Seyifunmi@123Wifi sniffer 2 ==> None
+PiXCast 6406AD24 ==> 12345678Busayo ==> adeyemiademide1357Infinix HOT 10T ==> Chinonye22SWIFT 4G CPE-4BBB ==> modupeoluwa1974iPhone ==> hotspoteFree+Wifi ==> None
+MyAP ==> None
+WiFi_TECNO CX Air_YpR9CaLC ==> None
+Infinix SMART 5 ==> a314de004552Huawei Mate ==> j0seph_j0sephTECNO SPARK 4 ==> None
+TECNO DP10A Pro ==> 12345678itel A56 ==> Sharon@16itel A33 ==> project1itel P36 ==> None
+U_E95181 ==> TMtpLJ8fJCTizeti ExpressWiFi by Facebook ==> None
+TECNO SPARK 7P ==> 8punkcmrvr3bshiSWIFT 4G CPE-PBBB ==> None
+Infinix NOTE 8i ==> bc71e148d1feItel P37 ==> None
+Haywhydolarz ==> llllllllHUAWEI Mate 8 ==> j0seph_j0sephGalaxy A21sA2B9 ==> None
+Blynk Quickstart Device-A6323 ==> None
+Blynk Control-A6323 ==> None
+AndroidAP ==> timmycruise666ADYYaXRlbGl0MTUwOA ==> None
+ADYYVEVDTk9LNw ==> None
+ADYYTVNNODkxNmZvcmFy ==> None
+ADYYRjEwMA ==> None
+ADYYMTEwOQ ==> None
+Huawei Mate 8 ==> j0seph_j0seph
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::b917:9de8:9401:352%13
+   IPv4 Address. . . . . . . . . . . : 192.168.43.155
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.43.185
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 

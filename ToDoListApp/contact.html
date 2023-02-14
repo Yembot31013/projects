@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" />
+  <link rel="stylesheet" href="style.css">
+  <title>Yembot | contact</title>
+</head>
+<body>
+  <body>
+    <!-- Header -->
+    <header class="containere">
+      <nav class="navbar">
+        <div class="logo"><span>yem</span>bot</div>
+        <ul>
+          <li class="btn-back">back<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-alt-circle-right"
+            class="svg-inline--fa fa-arrow-alt-circle-right fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 512 512">
+            <path fill="currentColor"
+              d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zM140 300h116v70.9c0 10.7 13 16.1 20.5 8.5l114.3-114.9c4.7-4.7 4.7-12.2 0-16.9l-114.3-115c-7.6-7.6-20.5-2.2-20.5 8.5V212H140c-6.6 0-12 5.4-12 12v64c0 6.6 5.4 12 12 12z">
+            </path>
+          </svg></li>
+        </ul>
+      </nav>
+    </header>
+  
+    <!-- Section A: Contact Form -->
+    <section id="contact-a" class="text-center py-3">
+      <div class="container">
+        <h2 class="section-title">Contact Me</h2>
+        <div class="bottom-line"></div>
+        <p class="lead">Here is how you can reach me</p>
+        <form method="POST" data-netlify="true" data-netlify-recaptcha="true">
+          <div class="text-fields">
+            <input type="text" class="text-input name-input" placeholder="Name" name="name" />
+            <input type="text" class="text-input subject-input" placeholder="Subject" name="subject" required/>
+            <input type="email" class="text-input email-input" placeholder="Email Address" name="email" required/>
+            <input type="text" class="text-input phone-input" placeholder="Phone Number" name="phone" />
+            <textarea class="text-input message-input" placeholder="Enter Message" name="message" required></textarea>
+            <div class="my-2">
+              <div data-netlify-recaptcha="true"></div>
+            </div>
+          </div>
+          <button type="submit" class="btn-dark">Submit</button>
+        </form>
+      </div>
+    </section>
+  
+    <!-- Section B: Contact Info -->
+    <section id="contact-b" class="py-3 bg-dark">
+      <div class="container">
+        <div class="contact-info">
+          <div>
+            <i class="fas fa-envelope fa-2x"></i>
+            <h3>Email</h3>
+            <p>adeyemi31013@gmail.com</p>
+          </div>
+          <div>
+            <i class="fas fa-phone fa-2x"></i>
+            <h3>Phone</h3>
+            <p>+234(0)708 437 5332</p>
+          </div>
+          <div>
+            <i class="fas fa-address-card fa-2x"></i>
+            <h3>Address</h3>
+            <p>50 Main st, Boston MA</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    <!-- Section C: Tagline -->
+    <!-- <section id="contact-c" class="bg-main py-4">
+      <div class="container">
+        <h1>Let's Start Your Next Project</h1>
+      </div>
+    </section>
+   -->
+    <!-- Footer -->
+    <footer id="main-footer">
+      <div class="footer-content container">
+        <p>Copyright &copy; <span class="year">2021</span>. All Rights Reserved</p>
+        <div class="social">
+          <i class="fab fa-twitter"></i>
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i  class="fab fa-linkedin"></i>
+        </div>
+      </div>
+    </footer>
+    <script>
+      const back = document.querySelector('.btn-back')
+      const year = document.querySelector('.year')
+      back.addEventListener('click', ()=>{
+      window.location.href = "http://127.0.0.1:5501/To-Do%20List%20App/index.html"
+      })
+      const now = new Date();
+      var years = now.getFullYear();
+      year.textContent = years
+    </script>
+</body>
+</html>

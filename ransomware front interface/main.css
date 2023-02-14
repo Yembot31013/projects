@@ -1,0 +1,28 @@
+.enlarge{
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.h-title{
+  color: white;
+}
+.special{
+  border-radius: 20px;
+  min-height: 240px;
+  justify-content: center;
+  padding: 1rem;
+}
+.special button{
+  margin-bottom: 1rem;
+  border-radius: 14px;
+  transition-property: color;
+  transition-duration: 0.8s;
+  transition-timing-function: ease-in-out;
+}
+.special button:hover{
+  color: red;
+}
+.hidden{
+  display: none;
+}
