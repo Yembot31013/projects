@@ -53,6 +53,21 @@ def writelines(value, times=0.01):
         sys.stdout.write(i)
         time.sleep(times)
 
+def pword_colorful(value, times=0.02, ends='\n', seps=' '):
+    colors = [colorama.Fore.GREEN, colorama.Fore.RED, colorama.Fore.BLUE, colorama.Fore.YELLOW]
+
+    for char in value:
+        sys.stdout.write(colors.pop(0) + char)
+        sys.stdout.flush()
+        colors.append(colors[0])  # Rotate the color list
+        time.sleep(times)
+
+    sys.stdout.write(colorama.Fore.RESET + ends)
+
+# pword(message, times=0.02, ends='\n', seps=' ')
+colorama.init()  # Initialize colorama
+
+pword_colorful(message, times=0.02, ends='\n', seps=' ')
 
 # writelines("""
 # i ama a good boy
